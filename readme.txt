@@ -26,7 +26,7 @@ Altera Complete Design Suite Contents
 *  SoC Embedded Design Suite
 *  DSP Builder
 *  Altera SDK for OpenCL                          
-                 
+   asdfasdfasdf              
 You can download the software from the Altera Download Center 
 on the Altera website: 
 https://www.altera.com/downloads/download-center.html
